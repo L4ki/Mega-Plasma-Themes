@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Mega-SDDM
+Description=Mega-SDDM Theme
+Author=l4k1
+License=GPLv3
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=l4k1987@gmail.com
+Theme-Id=Mega-SDDM
+Theme-API=2.0
