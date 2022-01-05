@@ -13,3 +13,16 @@ Plasma Theme
 ------------
 
 Fixed icon: start.svg
+
+Changelog: 05.01.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: apps
+
+Plasma Theme
+------------
+
+Fixed widget: slider.svg
