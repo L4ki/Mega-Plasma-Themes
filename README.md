@@ -33,7 +33,7 @@ Changelog: 12.01.2022.
 Icons
 -----
 
-Added new icons: actions (28, symbolic)
+Added new icons: actions (48, symbolic)
 
 Plasma Theme
 ------------
