@@ -26,3 +26,17 @@ Plasma Theme
 ------------
 
 Fixed widget: slider.svg
+
+Changelog: 12.01.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (28, symbolic)
+
+Plasma Theme
+------------
+
+Fixed widget: checkmarks.svg
+
