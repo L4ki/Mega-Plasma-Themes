@@ -40,3 +40,18 @@ Plasma Theme
 
 Fixed widget: checkmarks.svg
 
+
+Changelog: 19.01.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (symbolic)
+
+Plasma Theme
+------------
+
+Update widget: scrollbar.svg
+
+
