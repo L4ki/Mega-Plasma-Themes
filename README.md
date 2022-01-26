@@ -55,3 +55,18 @@ Plasma Theme
 Update widget: scrollbar.svg
 
 
+Changelog: 26.01.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (16)
+
+Plasma Theme
+------------
+
+Update widget: actionbutton.svg
+
+
+
