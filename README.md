@@ -68,5 +68,19 @@ Plasma Theme
 
 Update widget: actionbutton.svg
 
+Changelog: 02.02.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (22)
+
+Plasma Theme
+------------
+
+Added: solid, opaque, translucent
+
+
 
 
