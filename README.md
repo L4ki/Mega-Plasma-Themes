@@ -81,6 +81,20 @@ Plasma Theme
 
 Added: solid, opaque, translucent
 
+Changelog: 09.02.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (24)
+
+Plasma Theme
+------------
+
+Update widget: tasks.svg
+
+
 
 
 
