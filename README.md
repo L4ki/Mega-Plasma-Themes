@@ -94,6 +94,19 @@ Plasma Theme
 
 Update widget: tasks.svg
 
+Changelog: 16.02.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: applets (256)
+
+Plasma Theme
+------------
+
+Update icon: system.svg
+
 
 
 
