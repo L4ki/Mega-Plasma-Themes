@@ -1,6 +1,8 @@
 # Mega-Plasma-Themes
 Mega Plasma Themes For Plasma Desktop
 
+https://store.kde.org/p/1669395
+
 Changelog: 29.12.2021.
 ----------------------
 
@@ -119,6 +121,19 @@ Plasma Theme
 ------------
 
 Update widget: button.svg
+
+Changelog: 02.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (22)
+
+Plasma Theme
+------------
+
+Update widget: action-overlays.svg
 
 
 
