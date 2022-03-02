@@ -91,16 +91,16 @@
      inkscape:window-height="1007"
      id="namedview79"
      showgrid="false"
-     inkscape:zoom="3.9249998"
-     inkscape:cx="54.267519"
-     inkscape:cy="35.79618"
+     inkscape:zoom="2.775394"
+     inkscape:cx="55.487617"
+     inkscape:cy="25.04149"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7229"
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
@@ -332,7 +332,7 @@
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.32726;marker:none;enable-background:accumulate" />
     <path
        id="path9073"
-       style="fill:#2a7fff;fill-opacity:0.991076;stroke:none;stroke-width:1.16363"
+       style="fill:#0066ff;fill-opacity:0.99107599;stroke:none;stroke-width:1.16363"
        d="M 9.7864321,11.938139 H 12.213604 V 16.31617 H 9.7864321 Z M 11.00001,5.6838183 6.1456921,11.938154 h 9.7086239 z"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
