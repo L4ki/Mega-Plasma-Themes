@@ -135,6 +135,18 @@ Plasma Theme
 
 Update widget: action-overlays.svg
 
+Changelog: 09.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (24)
+
+Plasma Theme
+------------
+
+Update widget: arrows.svg
 
 
 
