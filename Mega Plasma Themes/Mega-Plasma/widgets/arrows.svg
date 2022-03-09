@@ -5,7 +5,7 @@
    viewBox="0 0 43.999957 43.999999"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="arrows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,17 +26,17 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.352941"
-     inkscape:cx="24.663213"
-     inkscape:cy="18.49741"
+     inkscape:zoom="5.6764705"
+     inkscape:cx="40.430052"
+     inkscape:cy="26.865285"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      borderlayer="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -119,12 +119,12 @@
          id="rect4241"
          style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.0374177;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <polygon
-         points="41.85,49.81 41.85,45.68 18.15,32 41.85,18.32 41.85,14.19 11,32 "
+         points="41.85,18.32 41.85,14.19 11,32 41.85,49.81 41.85,45.68 18.15,32 "
          id="polygon4"
          transform="matrix(0,0.09700066,-0.22459292,0,41.133982,265.3289)"
          style="fill:#eff0f1;fill-opacity:1" />
       <polygon
-         points="53,49.81 53,14.19 43.85,19.48 22.15,32 43.85,44.52 "
+         points="22.15,32 43.85,44.52 53,49.81 53,14.19 43.85,19.48 "
          id="polygon6"
          transform="matrix(0,0.09700066,-0.22459292,0,41.133982,266.04735)"
          style="fill:#eff0f1;fill-opacity:1" />
@@ -141,14 +141,14 @@
          y="26.988644"
          transform="rotate(-90)" />
       <polygon
-         points="41.85,49.81 41.85,45.68 18.15,32 41.85,18.32 41.85,14.19 11,32 "
+         points="41.85,18.32 41.85,14.19 11,32 41.85,49.81 41.85,45.68 18.15,32 "
          id="polygon4-3"
          transform="matrix(0,-0.0953517,0.22459292,0,26.760035,301.88638)"
          style="fill:#eff0f1;fill-opacity:1"
          inkscape:transform-center-x="-0.063596204"
          inkscape:transform-center-y="-3.0291652" />
       <polygon
-         points="43.85,44.52 53,49.81 53,14.19 43.85,19.48 22.15,32 "
+         points="43.85,19.48 22.15,32 43.85,44.52 53,49.81 53,14.19 "
          id="polygon6-6"
          transform="matrix(0,-0.09536467,0.22459292,0,26.760035,301.25024)"
          style="fill:#eff0f1;fill-opacity:1"
