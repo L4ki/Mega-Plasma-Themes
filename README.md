@@ -159,7 +159,7 @@ Added new icons: mimetypes (16)
 Plasma Theme
 ------------
 
-Update widget: tooltip.svg
+Update widget: tooltip.svg, slider.svg
 
 
 
