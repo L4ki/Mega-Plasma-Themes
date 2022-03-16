@@ -148,6 +148,19 @@ Plasma Theme
 
 Update widget: arrows.svg
 
+Changelog: 16.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (16)
+
+Plasma Theme
+------------
+
+Update widget: tooltip.svg
+
 
 
 
