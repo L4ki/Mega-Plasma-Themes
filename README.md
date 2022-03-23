@@ -161,6 +161,19 @@ Plasma Theme
 
 Update widget: tooltip.svg, slider.svg
 
+Changelog: 23.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (64)
+
+Plasma Theme
+------------
+
+Update icon: window.svg
+
 
 
 
