@@ -3,8 +3,8 @@
    width="32"
    height="32"
    version="1.1"
-   id="svg35"
-   sodipodi:docname="application-vnd.ms-powerpoint.addin.macroenabled.12.svg"
+   id="svg33"
+   sodipodi:docname="application-x-iso9660-appimage.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -12,42 +12,38 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview37"
+     id="namedview35"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="19.625"
-     inkscape:cx="0.66242038"
+     inkscape:cx="16"
      inkscape:cy="15.974522"
      inkscape:window-width="1920"
      inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg35">
-    <inkscape:grid
-       type="xygrid"
-       id="grid955" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg33" />
   <defs
      id="defs13">
     <linearGradient
        id="c"
-       y1="524.8"
-       x1="404.57"
-       y2="531.8"
-       x2="411.57"
-       gradientUnits="userSpaceOnUse">
+       y1="17"
+       y2="24"
+       x1="47"
+       x2="54"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-27 -8)">
       <stop
-         stop-color="#383e51"
+         stop-color="#060606"
          id="stop2" />
       <stop
          offset="1"
-         stop-color="#655c6f"
          stop-opacity="0"
          id="stop4" />
     </linearGradient>
@@ -80,55 +76,40 @@
   </defs>
   <path
      d="M20 2H8C6.338 2 5 3.338 5 5v22c0 1.662 1.338 3 3 3h16c1.662 0 3-1.338 3-3V9z"
-     fill="#fa752a"
+     fill="#209ae7"
      id="path15" />
   <path
      d="M8 2a2.99 2.99 0 00-2.123.877c-.031.031-.02.09-.05.123H20V2z"
      color="#000"
      opacity=".5"
      fill="#fff"
-     id="path17" />
+     id="path23" />
   <path
      d="M5.826 29c.03.033.02.092.051.123A2.99 2.99 0 008 30h16a2.99 2.99 0 002.123-.877c.031-.031.02-.09.05-.123z"
      color="#000"
      opacity=".25"
-     id="path19" />
+     id="path25" />
   <path
-     d="M 20,2.0000003 H 8 c -1.662,0 -3,1.338 -3,3 V 27 c 0,1.662 1.338,3 3,3 h 16 c 1.662,0 3,-1.338 3,-3 V 9 Z"
+     d="M 20,2 H 7.9999997 c -1.662,0 -3,1.338 -3,3 v 22 c 0,1.662 1.338,3 3,3 H 24 c 1.662,0 3,-1.338 3,-3 V 9 Z"
      opacity="0.4"
      fill="url(#b)"
-     id="path21"
+     id="path27"
      style="fill:url(#b)" />
   <path
-     opacity="0.5"
-     fill="#ffffff"
-     d="M 6,3 H 20 V 2 H 8 C 8,2 6,2 6,3 Z"
-     id="path23"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     opacity="0.25"
-     d="m 8,30 h 16 c 0,0 2,0 2,-1 H 6 c 0,1 2,1 2,1 z"
-     id="path25"
-     sodipodi:nodetypes="ccccc" />
-  <g
+     d="M27 9l-7-7v7z"
+     color="#000"
+     opacity=".5"
+     fill="#fff"
      fill-rule="evenodd"
-     id="g31">
-    <path
-       d="M27 9l-7-7v7z"
-       opacity=".5"
-       fill="#fff"
-       id="path27" />
-    <path
-       d="M411.57 531.8l-7-7h7z"
-       opacity=".2"
-       fill="url(#c)"
-       transform="translate(-384.57 -515.8)"
-       id="path29" />
-  </g>
+     id="path29" />
   <path
-     d="m 10.61883,11.105122 c -0.554,0 -1.0000004,0.446 -1.0000004,1 v 10 c 0,0.554 0.4460004,1 1.0000004,1 h 10 c 0.554,0 1,-0.446 1,-1 v -10 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 10 v 10 h -10 z m 6,1 v 3 h 3 a 3,3 0 0 0 -3,-3 m -1,1 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 h -3 z"
-     color="#000000"
-     opacity="0.75"
-     fill="#ffffff"
-     id="path33" />
+     d="M20 9l7 7V9z"
+     opacity=".2"
+     fill="url(#c)"
+     fill-rule="evenodd"
+     id="path31" />
+  <path
+     style="color:#31363b;fill:#ffffff;fill-opacity:0.75"
+     d="m 16,11 -6,2 v 8 l 6,2 6,-2 v -8 z m 0,1 v 2.836291 L 15.5,15.1 11,13.56 Z m 5,2 v 6.4 L 16,22 v -6 z"
+     id="path22" />
 </svg>
