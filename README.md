@@ -200,6 +200,19 @@ Plasma Theme
 
 Update icon: compass.svg
 
+Changelog: 14.04.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (64)
+
+Plasma Theme
+------------
+
+Update widget: viewitem.svg
+
 
 
 
