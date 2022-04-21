@@ -213,6 +213,20 @@ Plasma Theme
 
 Update widget: viewitem.svg
 
+Changelog: 21.04.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps (24, 32, 48)
+
+Plasma Theme
+------------
+
+Update widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+
 
 
 
