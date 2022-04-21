@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="bar_meter_vertical.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    version="1.1"
    id="svg2"
    viewBox="0 0 30 30"
@@ -30,13 +30,13 @@
      inkscape:window-width="1920"
      units="px"
      borderlayer="false"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="16.402724"
-     inkscape:cx="26.196292"
-     inkscape:zoom="8.3217884"
+     inkscape:cy="11.13114"
+     inkscape:cx="20.477898"
+     inkscape:zoom="5.884393"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1"
@@ -44,7 +44,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="true">
+     inkscape:lockguides="false">
     <inkscape:grid
        originy="-117.99998"
        originx="0"
