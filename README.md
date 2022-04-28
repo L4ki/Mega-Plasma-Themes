@@ -226,6 +226,18 @@ Plasma Theme
 
 Update widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 28.04.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps (48)
+
+Plasma Theme
+------------
+
+Update icon: klipper.svg
 
 
 
