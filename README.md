@@ -239,6 +239,19 @@ Plasma Theme
 
 Update icon: klipper.svg
 
+Changelog: 05.05.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: preferences (22)
+
+Plasma Theme
+------------
+
+Update icon: actionbutton.svg
+
 
 
 
