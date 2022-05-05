@@ -250,7 +250,7 @@ Added new icons: preferences (22)
 Plasma Theme
 ------------
 
-Update icon: actionbutton.svg
+Update widget: actionbutton.svg
 
 
 
