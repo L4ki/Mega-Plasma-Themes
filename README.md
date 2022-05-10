@@ -252,6 +252,19 @@ Plasma Theme
 
 Update widget: actionbutton.svg
 
+Changelog: 12.05.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: actions (symbolic)
+
+Plasma Theme
+------------
+
+Update icon: battery.svg
+
 
 
 
