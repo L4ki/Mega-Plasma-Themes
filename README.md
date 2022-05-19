@@ -265,6 +265,19 @@ Plasma Theme
 
 Update icon: battery.svg
 
+Changelog: 19.05.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: preferences (32)
+
+Plasma Theme
+------------
+
+Update icon: kate.svg
+
 
 
 
