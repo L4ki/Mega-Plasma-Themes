@@ -278,6 +278,19 @@ Plasma Theme
 
 Update icon: kate.svg
 
+Changelog: 01.06.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (24)
+
+Plasma Theme
+------------
+
+Update widgets: background.svg, tooltip.svg (solid, translucent, opaque)
+
 
 
 
