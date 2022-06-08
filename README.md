@@ -302,7 +302,8 @@ Added new icons: actions 16
 Plasma Theme
 ------------
 
-Update icons: activities, device, document, input, keyboard, kaffeine, klipper, plasmavault, plasmavault_error, redshift, video, preferences
+Update icons: activities, device, document, input, keyboard, kaffeine, klipper, plasmavault, plasmavault_error, redshift, video, preferences, kdeconnect, disk
+
 
 
 
