@@ -291,6 +291,18 @@ Plasma Theme
 
 Update widgets: background.svg, tooltip.svg (solid, translucent, opaque)
 
+Changelog: 08.06.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 16
+
+Plasma Theme
+------------
+
+Update icons: activities, device, document, input, keyboard, kaffeine, klipper, plasmavault, plasmavault_error, redshift, video, preferences
 
 
 
