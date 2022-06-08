@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="kaffeine.svg"
    id="svg44"
    version="1.1"
@@ -17,19 +17,21 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
      id="g1407"
-     transform="translate(32,10)">
+     transform="translate(32,10)"
+     style="fill:#eff0f1;fill-opacity:1">
     <path
        id="path6"
        d="m 0,0 h 22 c 0,0 0,0 0,0 v 22 c 0,0 0,0 0,0 H 0 c 0,0 0,0 0,0 V 0 c 0,0 0,0 0,0 z"
-       style="opacity:0" />
+       style="opacity:0;fill:#eff0f1;fill-opacity:1" />
     <g
        id="22-22-kaffeine"
        transform="matrix(0,0.17452003,-0.24429967,0,23.214983,2.5013093)"
-       style="enable-background:new">
+       style="enable-background:new;fill:#eff0f1;fill-opacity:1">
       <path
-         d="m 84.212499,92.98 h -71.02 c -4.1199999,0 -7.4699999,-3.35 -7.4699999,-7.47 V 14.49 c 0,-4.12 3.35,-7.47 7.4699999,-7.47 h 71.01 c 4.12,0 7.47,3.35 7.47,7.47 V 85.5 c 0.01,4.13 -3.34,7.48 -7.46,7.48 z m -71.02,-81.96 c -1.91,0 -3.4700001,1.56 -3.4700001,3.47 V 85.5 c 0,1.91 1.5600001,3.47 3.4700001,3.47 h 71.01 c 1.91,0 3.47,-1.56 3.47,-3.47 V 14.49 c 0,-1.91 -1.56,-3.47 -3.47,-3.47 z"
+         d="M 86.580166,90.933332 H 10.825499 C 6.4308313,90.933332 2.8574984,89.63 2.8574984,85.51 V 14.49 c 0,-4.12 3.5733329,-5.4233361 7.9680006,-5.4233361 h 75.743998 c 4.394669,0 7.967999,1.3033361 7.967999,5.4233361 V 85.5 c 0.0107,4.13 -3.562663,5.433332 -7.95733,5.433332 z M 10.825499,13.159997 C 8.7881676,13.159997 8.5874997,12.58 8.5874997,14.49 V 85.5 c 0,1.91 0.2006679,1.339999 2.2379993,1.339999 h 75.743998 c 2.037336,0 2.238021,0.570001 2.238021,-1.339999 V 14.49 c 0,-1.91 -0.200685,-1.330003 -2.238021,-1.330003 z"
          id="path2-6"
-         style="fill:#eff0f1;fill-opacity:1" />
+         style="fill:#eff0f1;fill-opacity:1;stroke-width:1.03279"
+         sodipodi:nodetypes="ssssssscssssssssss" />
     </g>
     <path
        style="color:#d5c289;fill:#eff0f1;fill-opacity:1;stroke-width:0.75;enable-background:new"
@@ -54,12 +56,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="21.317221"
-     inkscape:cx="31.444672"
-     inkscape:zoom="7.0600196"
+     inkscape:cy="25.039123"
+     inkscape:cx="24.588419"
+     inkscape:zoom="9.9843753"
      showgrid="false"
      id="namedview46"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -70,14 +72,14 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      inkscape:document-rotation="0"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
-       id="grid845"
        type="xygrid"
-       originx="0"
-       originy="0" />
+       id="grid2545"
+       originx="32"
+       originy="10" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -280,21 +282,24 @@
     </g>
   </g>
   <g
-     id="kaffeine">
+     id="kaffeine"
+     style="fill:#eff0f1;fill-opacity:1">
     <rect
        id="rect11"
-       style="opacity:0.00100002"
+       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
        y="0"
        x="0"
        height="32"
        width="32" />
     <g
        id="g4"
-       transform="matrix(0,0.23269337,-0.3257329,0,32.286645,4.6684124)">
+       transform="matrix(0,0.23269337,-0.3257329,0,32.286645,4.6684124)"
+       style="fill:#eff0f1;fill-opacity:1">
       <path
-         d="m 84.212499,92.98 h -71.02 c -4.1199999,0 -7.4699999,-3.35 -7.4699999,-7.47 V 14.49 c 0,-4.12 3.35,-7.47 7.4699999,-7.47 h 71.01 c 4.12,0 7.47,3.35 7.47,7.47 V 85.5 c 0.01,4.13 -3.34,7.48 -7.46,7.48 z m -71.02,-81.96 c -1.91,0 -3.4700001,1.56 -3.4700001,3.47 V 85.5 c 0,1.91 1.5600001,3.47 3.4700001,3.47 h 71.01 c 1.91,0 3.47,-1.56 3.47,-3.47 V 14.49 c 0,-1.91 -1.56,-3.47 -3.47,-3.47 z"
+         d="M 85.226268,92.98 H 12.168751 c -4.1200002,0 -6.4462519,-1.81431 -6.4462519,-5.93431 V 12.95431 C 5.7224991,8.8343102 8.0487507,7.02 12.168751,7.02 l 73.057517,1e-7 c 4.12,0 6.446231,1.8143101 6.446231,5.9343099 v 74.08217 c 0.01,4.13 -2.326231,5.94352 -6.446231,5.94352 z M 14.480806,10.09 C 10.02,10.09 10.02,11.548372 10.02,14.18231 v 71.62617 c 0,2.929079 0,4.10152 4.031056,4.10152 h 69.292907 c 4.031056,0 4.031056,-1.207085 4.031056,-4.10152 V 14.49 c 0,-2.284802 0,-4.4 -4.031056,-4.4 z"
          id="path2"
-         style="fill:#eff0f1;fill-opacity:1" />
+         style="fill:#eff0f1;fill-opacity:1"
+         sodipodi:nodetypes="ssssssscssssssssss" />
     </g>
     <path
        style="color:#d5c289;fill:#eff0f1;fill-opacity:1"

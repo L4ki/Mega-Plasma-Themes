@@ -5,7 +5,7 @@
    version="1.1"
    id="svg32"
    sodipodi:docname="document.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,53 +13,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <g
-     id="22-22-document-open-recent"
-     transform="translate(-5e-7,-22)">
-    <rect
-       style="opacity:0.00100002"
-       width="22"
-       height="22"
-       x="1.2623786e-15"
-       y="0"
-       id="rect7" />
-    <rect
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.52751"
-       class="ColorScheme-Text"
-       width="6.999855"
-       height="0.96900004"
-       x="7.566813"
-       y="13.999997"
-       id="rect62-7-3" />
-    <rect
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:1"
-       class="ColorScheme-Text"
-       width="6"
-       height="1.063"
-       x="7.566813"
-       y="11.969998"
-       id="rect64-5-6" />
-    <rect
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:1"
-       class="ColorScheme-Text"
-       width="5"
-       height="0.96900004"
-       x="7.566813"
-       y="10.029996"
-       id="rect66-3-7" />
-    <rect
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:1"
-       class="ColorScheme-Text"
-       width="3"
-       height="0.96900004"
-       x="7.566813"
-       y="8.0299959"
-       id="rect68-5-5" />
-    <path
-       d="M 15.590707,3 H 6.203502 C 5.541583,3 5,3.6 5,4.333333 V 17.666666 C 5,18.4 5.541583,19 6.203502,19 h 9.387205 c 0.661919,0 1.203486,-0.6 1.203486,-1.333334 V 4.333333 C 16.794193,3.6 16.252626,3 15.590707,3 Z m 0.601749,14.666666 c 0,0.366662 -0.270802,0.666662 -0.601749,0.666662 H 6.203502 c -0.330975,0 -0.601749,-0.3 -0.601749,-0.666662 V 4.333333 c 0,-0.366666 0.270775,-0.666666 0.601749,-0.666666 h 9.387205 c 0.330947,0 0.601749,0.3 0.601749,0.666666 z"
-       id="path2-36-3"
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.316686" />
-  </g>
   <metadata
      id="metadata38">
     <rdf:RDF>
@@ -99,12 +52,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview34"
      showgrid="false"
      inkscape:zoom="4.9062501"
-     inkscape:cx="43.617833"
-     inkscape:cy="-4.3821655"
+     inkscape:cx="-8.2547769"
+     inkscape:cy="26.700636"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -117,13 +70,15 @@
     <inkscape:grid
        type="xygrid"
        id="grid886"
-       originx="0"
+       originx="-32"
        originy="0" />
   </sodipodi:namedview>
   <g
-     id="document-encrypt">
+     id="document-encrypt"
+     style="fill:#eff0f1;fill-opacity:1"
+     transform="translate(-32)">
     <rect
-       style="opacity:0.00100002"
+       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
        width="32"
        height="32"
        x="32"
@@ -135,9 +90,11 @@
        style="fill:#eff0f1;fill-opacity:1;stroke-width:0.266667" />
   </g>
   <g
-     id="document-decrypt">
+     id="document-decrypt"
+     style="fill:#eff0f1;fill-opacity:1"
+     transform="translate(-32)">
     <rect
-       style="opacity:0.00100002"
+       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
        width="32"
        height="32"
        x="64"
@@ -150,9 +107,11 @@
        sodipodi:nodetypes="scsscccccsccsscssssscssscsssc" />
   </g>
   <g
-     id="22-22-document-encrypt">
+     id="22-22-document-encrypt"
+     style="fill:#eff0f1;fill-opacity:1"
+     transform="translate(-32)">
     <rect
-       style="opacity:0.00100002"
+       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
        width="22"
        height="22"
        x="32"
@@ -164,9 +123,11 @@
        style="fill:#eff0f1;fill-opacity:1;stroke:#eff0f1;stroke-width:0.177783;stroke-opacity:1" />
   </g>
   <g
-     id="22-22-document-decrypt">
+     id="22-22-document-decrypt"
+     style="fill:#eff0f1;fill-opacity:1"
+     transform="translate(-32)">
     <rect
-       style="opacity:0.00100002"
+       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
        width="22"
        height="22"
        x="64"
@@ -179,49 +140,117 @@
        sodipodi:nodetypes="scsscccccsccsscssssscssscsssc" />
   </g>
   <g
-     id="document-open-recent">
+     id="document-open-recent"
+     style="fill:#eff0f1;fill-opacity:1"
+     transform="translate(-32)">
     <rect
-       style="opacity:0.00100002"
+       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
        width="32"
        height="32"
        x="0"
        y="0"
        id="rect17" />
     <rect
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:2.29126"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:2.03173"
        class="ColorScheme-Text"
-       width="10.499783"
-       height="1.4535"
-       x="11.500217"
-       y="20.499996"
+       width="12"
+       height="1"
+       x="10"
+       y="21"
        id="rect62-7" />
     <rect
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.5"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.31327"
        class="ColorScheme-Text"
-       width="9"
-       height="1.5944999"
-       x="11.500217"
-       y="17.454998"
+       width="11"
+       height="1"
+       x="10"
+       y="18"
        id="rect64-5" />
     <rect
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.5"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.43666"
        class="ColorScheme-Text"
-       width="7.5"
-       height="1.4535"
-       x="11.500217"
-       y="14.544993"
+       width="10"
+       height="1"
+       x="10"
+       y="15"
        id="rect66-3" />
     <rect
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.5"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.75953"
        class="ColorScheme-Text"
-       width="4.5"
-       height="1.4535"
-       x="11.500217"
-       y="11.544993"
+       width="9"
+       height="1"
+       x="10"
+       y="12"
        id="rect68-5" />
+    <rect
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.6589"
+       class="ColorScheme-Text"
+       width="8"
+       height="1"
+       x="10"
+       y="9"
+       id="rect68-5-3" />
     <path
-       d="M 23.53606,4 H 9.455253 C 8.462374,4 7.65,4.9 7.65,5.999999 V 25.999998 C 7.65,27.1 8.462374,28 9.455253,28 H 23.53606 c 0.992879,0 1.805229,-0.9 1.805229,-2.000002 V 5.999999 C 25.341289,4.9 24.528939,4 23.53606,4 Z m 0.902623,21.999998 c 0,0.549994 -0.406203,0.999994 -0.902623,0.999994 H 9.455253 c -0.496462,0 -0.902624,-0.45 -0.902624,-0.999994 V 5.999999 C 8.552629,5.45 8.958791,5 9.455253,5 H 23.53606 c 0.49642,0 0.902623,0.45 0.902623,0.999999 z"
+       d="M 23.155188,4 H 8.8358361 C 7.8261365,4 7,4.9 7,5.999999 V 25.999998 C 7,27.1 7.8261365,28 8.8358361,28 H 23.155188 C 24.164887,28 25,27.1 25,25.999998 V 5.999999 C 25,4.9 24.164887,4 23.155188,4 Z M 24,25.999998 c 0,0.549994 -0.339982,0.999994 -0.844812,0.999994 H 8.8358361 C 8.3309634,26.999992 8,26.549992 8,25.999998 V 5.999999 C 8,5.45 8.3309634,5 8.8358361,5 H 23.155188 C 23.660018,5 24,5.45 24,5.999999 Z"
        id="path2-36"
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.475029" />
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.479036"
+       sodipodi:nodetypes="ssssssssssssssssss" />
+  </g>
+  <g
+     id="22-22-document-open-recent"
+     style="fill:#eff0f1;fill-opacity:1"
+     transform="translate(-32)">
+    <rect
+       style="opacity:0.00100002;fill:#eff0f1;fill-opacity:1"
+       width="22"
+       height="22"
+       x="-5e-07"
+       y="-22"
+       id="rect7" />
+    <rect
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.55175"
+       class="ColorScheme-Text"
+       width="6.999855"
+       height="1"
+       x="8"
+       y="-8.0000029"
+       id="rect62-7-3" />
+    <rect
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.969914"
+       class="ColorScheme-Text"
+       width="6"
+       height="1"
+       x="8"
+       y="-10"
+       id="rect64-5-6" />
+    <rect
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.01587"
+       class="ColorScheme-Text"
+       width="5"
+       height="1"
+       x="8"
+       y="-12"
+       id="rect66-3-7" />
+    <rect
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.17303"
+       class="ColorScheme-Text"
+       width="4"
+       height="1"
+       x="8"
+       y="-14"
+       id="rect68-5-5" />
+    <path
+       d="M 15.775513,-19 H 6.2245025 c -0.6734695,0 -1.224503,0.6 -1.224503,1.333333 V -4.333334 C 4.9999995,-3.6 5.551033,-3 6.2245025,-3 H 15.775514 C 16.448982,-3 17,-3.6 17,-4.333334 V -17.666667 C 17,-18.4 16.448982,-19 15.775513,-19 Z M 16,-4.333334 C 16,-3.966671 16.112234,-4 15.775513,-4 H 6.2245025 C 5.8877519,-4 5.9995201,-3.966666 6,-4.333334 L 6.01745,-17.666667 C 6.0179299,-18.033338 5.8877529,-18 6.2245025,-18 H 15.775514 C 16.112234,-18 16,-17.933667 16,-17.567 Z"
+       id="path2-36-3"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.319437"
+       sodipodi:nodetypes="ssssssssssssssssss" />
+    <rect
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.01588"
+       class="ColorScheme-Text"
+       width="3"
+       height="1"
+       x="8"
+       y="-16"
+       id="rect68-5-5-3" />
   </g>
 </svg>

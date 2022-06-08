@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="22"
-   height="22"
+   width="32"
+   height="32"
    id="svg3869"
    version="1.1"
-   viewBox="0 0 22 22.000001"
+   viewBox="0 0 32 32.000001"
    sodipodi:docname="input.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -14,30 +14,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <g
-     id="input-keyboard"
-     transform="translate(22,-10.00001)">
-    <rect
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.45455px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect4196"
-       width="32"
-       height="32"
-       x="0"
-       y="4.6325684e-07" />
-    <path
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.89672"
-       class="ColorScheme-Text"
-       fill-rule="evenodd"
-       d="m 7.000003,11.39996 v 1.8 h 1.998668 v -1.8 z m 3.997329,0 v 1.8 h 1.998673 v -1.8 z m 3.997345,0 v 1.8 h 1.998673 v -1.8 z m 3.997329,0 v 1.8 h 1.998672 v -1.8 z m 3.997345,0 v 1.8 h 1.998656 v -1.8 z m -13.994678,3.6 0.0083,1.8 H 10.9974 v -1.8 z m 4.001332,0 v 1.8 h 1.998672 v -1.8 z m 3.997345,0 v 1.8 h 1.998656 v -1.8 z m 3.997328,0 v 1.8 h 1.998673 v -1.8 z m -13.990675,3.6 v 1.8 h 1.998668 v -1.8 z m 3.997329,0 v 1.8 h 9.993346 v -1.8 z m 11.992019,0 0.02393,1.8 h 1.986722 l -0.02392,-1.8 z"
-       font-family="sans-serif"
-       font-weight="400"
-       overflow="visible"
-       id="path60-5" />
-    <path
-       d="M 28,22.665271 V 9.1346715 c 0,-0.954082 -0.9,-1.734712 -1.999999,-1.734712 H 6.000003 C 4.9,7.3999595 4,8.1805895 4,9.1346715 V 22.665271 c 0,0.954082 0.9,1.73469 2.000003,1.73469 H 26.000001 C 27.1,24.399961 28,23.619353 28,22.665271 Z M 6.000003,23.532623 c -0.549995,0 -0.999995,-0.390329 -0.999995,-0.867352 V 9.1346715 c 0,-0.477061 0.45,-0.867353 0.999995,-0.867353 H 26.000001 C 26.55,8.2673185 27,8.6576105 27,9.1346715 V 22.665271 c 0,0.477023 -0.45,0.867352 -0.999999,0.867352 z"
-       id="path2-36"
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.465657" />
-  </g>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -48,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview49"
      showgrid="false"
      inkscape:zoom="2.32"
-     inkscape:cx="28.017242"
-     inkscape:cy="114.00862"
+     inkscape:cx="31.681034"
+     inkscape:cy="151.2931"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -65,8 +41,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid874"
-       originx="-16"
-       originy="-10.000051" />
+       originx="-37.521193"
+       originy="7.9076818" />
   </sodipodi:namedview>
   <metadata
      id="metadata25">
@@ -330,7 +306,7 @@
     </linearGradient>
   </defs>
   <g
-     transform="translate(-348,-406.36219)"
+     transform="translate(-369.52119,-388.45446)"
      id="22-22-input-keyboard-battery">
     <rect
        style="opacity:1;fill:none"
@@ -347,7 +323,7 @@
        id="path17" />
   </g>
   <g
-     transform="translate(-370,-438.36219)"
+     transform="translate(-391.52119,-420.45446)"
      id="22-22-input-keyboard-brightness">
     <rect
        ry="0"
@@ -365,7 +341,7 @@
   </g>
   <g
      id="input-keyboard-battery"
-     transform="translate(-348,-438.36238)">
+     transform="translate(-369.52119,-420.45465)">
     <rect
        style="opacity:1;fill:none"
        id="rect4378"
@@ -382,7 +358,7 @@
   </g>
   <g
      id="input-keyboard-brightness"
-     transform="translate(-380,-470.36238)">
+     transform="translate(-401.52119,-452.45465)">
     <rect
        ry="0"
        y="556.36237"
@@ -405,7 +381,7 @@
   </g>
   <g
      id="16-16-input-mouse-battery"
-     transform="translate(-319,-307.36219)">
+     transform="translate(-340.52119,-289.45446)">
     <path
        id="path4196"
        transform="translate(319,457.36217)"
@@ -422,7 +398,7 @@
   </g>
   <g
      id="22-22-input-keyboard-virtual-on"
-     transform="translate(0,32)">
+     transform="translate(-21.521193,49.907734)">
     <path
        id="path6-6"
        transform="translate(0,-1030.3622)"
@@ -443,7 +419,7 @@
        style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:bevel" />
   </g>
   <g
-     transform="matrix(1.4545455,0,0,1.4545455,22,22)"
+     transform="matrix(1.4545455,0,0,1.4545455,0.47880702,39.907734)"
      id="input-keyboard-virtual-on">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -465,7 +441,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(0,64)"
+     transform="translate(-21.521193,81.907734)"
      id="22-22-input-keyboard-virtual-off">
     <path
        style="fill:#eff0f1;fill-opacity:1;stroke:none"
@@ -482,7 +458,7 @@
        y="0" />
   </g>
   <g
-     transform="matrix(1.4545455,0,0,1.4545455,22,54)"
+     transform="matrix(1.4545455,0,0,1.4545455,0.47880702,71.907734)"
      id="input-keyboard-virtual-off">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -500,7 +476,7 @@
   </g>
   <g
      id="22-22-input-caps-on"
-     transform="translate(43.241379,13.2586)">
+     transform="translate(21.720186,31.166334)">
     <rect
        y="146.74138"
        x="-43.241379"
@@ -516,7 +492,7 @@
   </g>
   <g
      id="22-22-input-num-on"
-     transform="translate(-24,74.99998)">
+     transform="translate(-45.521193,92.907714)">
     <rect
        style="opacity:0.00100002;fill-opacity:1;stroke:none;stroke-width:0.49066;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect972"
@@ -532,7 +508,7 @@
   </g>
   <g
      id="input-caps-on"
-     transform="translate(3,38)">
+     transform="translate(-18.521193,55.907734)">
     <rect
        y="112"
        x="19"
@@ -548,7 +524,7 @@
   </g>
   <g
      id="input-num-on"
-     transform="translate(3,69.99998)">
+     transform="translate(-18.521193,87.907714)">
     <rect
        style="opacity:0.00100002;fill-opacity:1;stroke:none;stroke-width:0.713687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect984"
@@ -564,7 +540,7 @@
   </g>
   <g
      id="input-mouse-battery"
-     transform="translate(22,213.99997)">
+     transform="translate(0.47880702,231.9077)">
     <rect
        style="fill:none"
        id="rect4378-6"
@@ -628,7 +604,7 @@
   </g>
   <g
      id="22-22-input-mouse-battery"
-     transform="translate(22,213.99997)">
+     transform="translate(0.47880702,231.9077)">
     <rect
        style="fill:none"
        width="22"
@@ -696,20 +672,54 @@
        style="fill:url(#f-6);fill-rule:evenodd" />
   </g>
   <g
-     id="22-22-input-keyboard">
+     id="input-keyboard">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.45455px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4196"
+       width="32"
+       height="32"
+       x="0"
+       y="4.6325684e-07" />
+    <path
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:1.89672"
+       class="ColorScheme-Text"
+       fill-rule="evenodd"
+       d="m 7.000003,14 v 2 h 1.998668 v -2 z m 3.997329,0 v 2 h 1.998673 v -2 z m 3.997345,0 v 2 h 1.998673 v -2 z m 3.997329,0 v 2 h 1.998672 v -2 z m 3.997345,0 v 2 h 1.998656 V 14 Z M 8.994673,18 9,19.999958 h 2 L 10.9974,18 Z m 4.001332,0 0.004,1.999958 h 2 L 14.994677,18 Z M 16.99335,18 17,19.999958 h 2 L 18.992006,18 Z M 20.990678,18 21,19.999958 h 2 L 22.989351,18 Z M 7,23.999958 v -2 h 2 v 2 z m 4,0 v -2 h 10 v 2 z m 12,0 v -2 h 2 v 2 z"
+       font-family="sans-serif"
+       font-weight="400"
+       overflow="visible"
+       id="path60-5"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       d="M 28,25.265311 V 11.734712 C 28,10.78063 27.1,10 26.000001,10 H 6.000003 C 4.9,10 4,10.78063 4,11.734712 v 13.530599 c 0,0.954082 0.9,1.73469 2.000003,1.73469 H 26.000001 C 27.1,27.000001 28,26.219393 28,25.265311 Z M 6.000003,25.99999 c -0.549995,0 -0.999995,-0.357976 -0.999995,-0.835 v -13.23 c 0,-0.477061 0.45,-0.935 0.999995,-0.935 H 26.000001 C 26.55,10.99999 27,11.357929 27,11.83499 v 13.33 c 0,0.477024 -0.45,0.835 -0.999999,0.835 z"
+       id="path2-36"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.465657"
+       sodipodi:nodetypes="ssssssssssssssssss" />
+    <path
+       id="Keyboard-s"
+       class="st1"
+       d="m 19.5,6.25001 v -1.25 H 21 v 1.25 c 0,1.2375 -1.0125,2.25 -2.25,2.25 h -1.5 c -0.4125,0 -0.75,0.3375 -0.75,0.75 v 0.75 H 15 v -0.75 c 0,-1.2375 1.0125,-2.25 2.25,-2.25 h 1.5 c 0.4125,0 0.75,-0.3375 0.75,-0.75 z"
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.375"
+       sodipodi:nodetypes="sccccccccsccs" />
+  </g>
+  <g
+     id="22-22-input-keyboard"
+     transform="translate(-22,10.00001)">
     <path
        style="fill:#eff0f1;fill-opacity:1;stroke-width:1.26448"
        class="ColorScheme-Text"
        fill-rule="evenodd"
-       d="m 5.000002,7.9666667 v 1.2 h 1.332445 v -1.2 z m 2.664886,0 v 1.2 h 1.332449 v -1.2 z m 2.664897,0 v 1.2 h 1.332448 v -1.2 z m 2.664886,0 v 1.2 h 1.332448 v -1.2 z m 2.664896,0 v 1.2 h 1.332438 v -1.2 z m -9.329785,2.4000003 0.0055,1.2 H 7.6649 v -1.2 z m 2.667555,0 v 1.2 h 1.332448 v -1.2 z m 2.664896,0 v 1.2 h 1.332438 v -1.2 z m 2.664886,0 v 1.2 h 1.332448 v -1.2 z m -9.327117,2.4 v 1.2 h 1.332445 v -1.2 z m 2.664886,0 v 1.2 h 6.662231 v -1.2 z m 7.994679,0 0.01595,1.2 h 1.324481 l -0.01595,-1.2 z"
+       d="m 5,10 v 1.999947 H 7 V 10 Z m 3,0 v 1.999947 h 2 V 10 Z m 3,0 v 1.999947 h 2 V 10 Z m 6,0 v 1.999947 h -2 v -2 z M 5,14.999947 v 0 h 2 v 0 z m 3,0 v 0 0 h 6 z m 7,0 v 0 h 2 v 0 z m -10,-1 v 2 h 2 v -2 z m 3,0 v 2 h 6 v -2 z m 7,0 v 2 h 2 v -2 z"
        font-family="sans-serif"
        font-weight="400"
        overflow="visible"
-       id="path60-5-7" />
+       id="path60-5-7"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
-       d="M 19,15.476874 V 6.4564747 C 19,5.8204197 18.4,5.3 17.666667,5.3 H 4.333335 C 3.6,5.3 3,5.8204197 3,6.4564747 v 9.0203993 c 0,0.636054 0.6,1.15646 1.333335,1.15646 H 17.666667 C 18.4,16.633334 19,16.112928 19,15.476874 Z M 4.333335,16.055109 c -0.366663,0 -0.666663,-0.26022 -0.666663,-0.578235 V 6.4564747 c 0,-0.318041 0.3,-0.5782357 0.666663,-0.5782357 h 13.333332 c 0.366666,0 0.666666,0.2601947 0.666666,0.5782357 v 9.0203993 c 0,0.318015 -0.3,0.578235 -0.666666,0.578235 z"
+       d="M 20,17.775513 V 8.2245026 C 20,7.5510323 19.325,7 18.500007,7 H 3.500001 C 2.675,7 2,7.5510323 2,8.2245026 V 17.775513 C 2,18.44898 2.675,19 3.500001,19 H 18.500007 C 19.325,19 20,18.44898 20,17.775513 Z M 3.724626,18 C 3.125,18 3.125,17.411722 3.125,17.075 V 8.925 C 3.125,8.5882503 3.0125,7.9995106 3.724626,8 L 18.27538,8.01 C 18.9875,8.0104894 18.875,8.5882503 18.875,8.925 v 8.15 c 0,0.336722 0,0.925 -0.59962,0.925 z"
        id="path2"
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.310438" />
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.338818"
+       sodipodi:nodetypes="ssssssssssssssssss" />
     <rect
        y="0"
        x="0"
@@ -717,5 +727,11 @@
        width="22"
        id="rect4147"
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="Keyboard-s-3"
+       class="st1"
+       d="m 14.75,3.999947 v -1 H 16 v 1 c 0,0.99 -0.84375,1.8 -1.875,1.8 h -1.25 c -0.34375,0 -0.625,0.27 -0.625,0.6 v 0.6 H 11 v -0.6 c 0,-0.99 0.84375,-1.8 1.875,-1.8 h 1.25 c 0.34375,0 0.625,-0.27 0.625,-0.6 z"
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.306186"
+       sodipodi:nodetypes="sccccccccsccs" />
   </g>
 </svg>
