@@ -304,7 +304,22 @@ Plasma Theme
 
 Update icons: activities, device, document, input, keyboard, kaffeine, klipper, plasmavault, plasmavault_error, redshift, video, preferences, kdeconnect, disk
 
+Changelog: 16.06.2022.
+----------------------
 
+Icons
+-----
 
+Update icons: actions 22
+
+Plasma Theme
+------------
+
+Update icons: audio, choqok, choqok_offline
+
+Aurorae Theme "Mega-Blur-Aurorae"
+---------------------------------
+
+Update decoration.svg (Customized for Plasma 5.25)
 
 
