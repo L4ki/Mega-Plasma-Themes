@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="kmail.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,10 @@
        y="0"
        id="rect7" />
     <path
-       d="M 30.489654,5.7 H 1.506897 C 1.118103,5.7 0.8,6.0181035 0.8,6.4068965 V 25.493104 C 0.8,25.881898 1.118103,26.2 1.506897,26.2 h 28.982757 c 0.388797,0 0.706896,-0.318102 0.706896,-0.706896 V 6.4068965 C 31.19655,6.0181035 30.878451,5.7 30.489654,5.7 Z M 29.78276,24.786211 H 2.213793 V 7.1137928 H 29.78276 Z"
+       d="M 30.302327,6 H 1.6976749 C 1.3139531,6 1,6.310345 1,6.689655 V 25.310344 C 1,25.689658 1.3139531,26 1.6976749,26 H 30.302327 C 30.68605,26 31,25.689658 31,25.310344 V 6.689655 C 31,6.310345 30.68605,6 30.302327,6 Z M 30,25 H 2 V 7 h 28 z"
        id="path2-1"
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.35345" />
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.346828"
+       sodipodi:nodetypes="sssssssssccccc" />
     <path
        d="m 22.700842,14.823607 c 0.282756,0.247412 0.742239,0.247412 0.989652,-0.03534 l 6.185348,-6.7862034 c 0.106031,-0.141379 0.176725,-0.3181041 0.176725,-0.4594832 0,-0.176724 -0.07071,-0.3887929 -0.247419,-0.530172 -0.282753,-0.2474195 -0.742241,-0.2474195 -0.989652,0.035342 l -6.185348,6.7861966 c -0.247413,0.282762 -0.247413,0.706899 0.07071,0.989659 z"
        id="path6-2"
@@ -63,19 +64,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="8.0000005"
-     inkscape:cx="39.374998"
-     inkscape:cy="8.9374994"
+     inkscape:zoom="11.313709"
+     inkscape:cx="30.184619"
+     inkscape:cy="22.67161"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
      inkscape:document-rotation="0"
-     inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:lockguides="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid873"
@@ -93,9 +96,10 @@
        y="0"
        id="rect2" />
     <path
-       d="M 20.875862,4 H 1.082757 C 0.817243,4 0.6,4.217244 0.6,4.482757 V 17.517242 C 0.6,17.78276 0.817243,18 1.082757,18 h 19.793105 c 0.265518,0 0.482758,-0.21724 0.482758,-0.482758 V 4.482757 C 21.35862,4.217244 21.14138,4 20.875862,4 Z M 20.393103,17.034486 H 1.565516 V 4.965516 h 18.827587 z"
+       d="M 20.534887,4 H 1.4651146 C 1.2093039,4 1,4.217244 1,4.482757 V 17.517242 C 1,17.78276 1.2093039,18 1.4651146,18 H 20.534887 C 20.7907,18 21,17.78276 21,17.517242 V 4.482757 C 21,4.217244 20.7907,4 20.534887,4 Z M 20,17 H 2 V 5 h 18 z"
        id="path2-5"
-       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.24138" />
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.236928"
+       sodipodi:nodetypes="sssssssssccccc" />
     <path
        d="m 15.55667,10.230754 c 0.193105,0.168965 0.506901,0.168965 0.675859,-0.0241 L 20.45667,5.572175 c 0.07244,-0.09655 0.120694,-0.217245 0.120694,-0.313792 0,-0.120691 -0.0483,-0.265515 -0.168978,-0.362072 C 20.215292,4.727344 19.9015,4.727344 19.732531,4.920441 l -4.224145,4.634466 c -0.168956,0.193111 -0.168956,0.482765 0.04836,0.675875 z"
        id="path6-6"
