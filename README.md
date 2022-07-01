@@ -335,5 +335,17 @@ Plasma Theme
 
 Update icons: kmail, mail, phone
 
+Changelog: 01.07.2022.
+----------------------
+
+Icons
+-----
+Added new icons: actions 16
+
+Plasma Theme
+------------
+
+Update icons: wallet.svg, preferences.svg
+
 
 
