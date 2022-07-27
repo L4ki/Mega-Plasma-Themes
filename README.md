@@ -359,5 +359,22 @@ Plasma Theme
 
 Update widget: scrollbar.svg
 
+Changelog: 27.07.2022.
+----------------------
+
+Icons
+-----
+Added new icons: actions 16
+
+Plasma Theme
+------------
+
+Update widget: line.svg
+
+Aurorae Theme "Mega-Blur-Aurorae"
+---------------------------------
+
+Update: decoration.svg
+
 
 
