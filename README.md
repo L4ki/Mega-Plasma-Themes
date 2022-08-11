@@ -376,5 +376,17 @@ Aurorae Theme "Mega-Blur-Aurorae"
 
 Update: decoration.svg
 
+Changelog: 11.08.2022.
+----------------------
+
+Icons
+-----
+Added new icons: actions 24
+
+Plasma Theme
+------------
+
+Update icon: TeamViewer.svg
+
 
 
