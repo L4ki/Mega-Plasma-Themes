@@ -388,5 +388,18 @@ Plasma Theme
 
 Update icon: TeamViewer.svg
 
+Changelog: 18.08.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: mimetypes
+
+Plasma Theme
+-------------
+
+Update widget: listitem.svg
+
 
 
