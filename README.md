@@ -401,5 +401,18 @@ Plasma Theme
 
 Update widget: listitem.svg
 
+Changelog: 25.08.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: actions 16
+
+Plasma Theme
+-------------
+
+Update icon: manjaro.svg
+
 
 
