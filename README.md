@@ -414,5 +414,18 @@ Plasma Theme
 
 Update icon: manjaro.svg
 
+Changelog: 01.09.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: actions 22
+
+Plasma Theme
+-------------
+
+Update icon: system.svg
+
 
 
