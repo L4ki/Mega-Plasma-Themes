@@ -451,7 +451,7 @@ Update icons: places 64
 Plasma Theme
 -------------
 
-AUpdate widget: button.svg
+Update widget: button.svg
 
 
 
