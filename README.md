@@ -453,5 +453,18 @@ Plasma Theme
 
 Update widget: button.svg
 
+Changelog: 22.09.2022.
+---------------------
+
+Icons
+------
+
+Update icons: places 16, 22, 24
+
+Plasma Theme
+-------------
+
+Added new icons: juk.svg, kdf.svg
+
 
 
