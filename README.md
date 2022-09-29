@@ -466,5 +466,23 @@ Plasma Theme
 
 Added new icons: juk.svg, kdf.svg
 
+Changelog: 29.09.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Theme
+-------------
+
+update widget: configuration-icons.svg
+
+GTK Theme
+---------
+
+Update: assets, gtk.css
+
 
 
