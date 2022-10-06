@@ -498,5 +498,10 @@ Plasma Theme
 
 Added widget: toolbar.svg
 
+GTK Theme
+---------
+
+Update: assets
+
 
 
