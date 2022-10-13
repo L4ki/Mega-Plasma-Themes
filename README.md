@@ -503,5 +503,18 @@ GTK Theme
 
 Update: assets
 
+Changelog: 13.10.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Theme
+-------------
+
+Added new widgets: radiobutton.svg, margins-highlight.svg
+
 
 
