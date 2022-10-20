@@ -516,5 +516,18 @@ Plasma Theme
 
 Added new widgets: radiobutton.svg, margins-highlight.svg
 
+Changelog: 20.10.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: actions 24
+
+Plasma Theme
+-------------
+
+Update widget: scrollbar.svg
+
 
 
