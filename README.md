@@ -542,4 +542,17 @@ Plasma Theme
 
 Added icon: tools.svg
 
+Changelog: 03.11.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32
+
+Plasma Theme
+-------------
+
+Added icons: yakuake.svg, face.svg
+
 
