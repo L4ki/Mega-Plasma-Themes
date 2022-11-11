@@ -567,6 +567,6 @@ Added new icons: apps
 Plasma Theme
 -------------
 
-Added icons: dropbox.svg
+Added icon: dropbox.svg
 
 
