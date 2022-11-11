@@ -556,3 +556,17 @@ Plasma Theme
 Added icons: yakuake.svg, face.svg
 
 
+Changelog: 11.11.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Added icons: dropbox.svg
+
+
