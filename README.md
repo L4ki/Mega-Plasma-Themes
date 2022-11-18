@@ -581,6 +581,6 @@ Added new icons: apps 32, 48
 Plasma Theme
 -------------
 
-Added icon: sirikali.svg, nulloy.svg
+Added icons: sirikali.svg, nulloy.svg
 
 
