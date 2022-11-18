@@ -570,3 +570,17 @@ Plasma Theme
 Added icon: dropbox.svg
 
 
+Changelog: 18.11.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: sirikali.svg, nulloy.svg
+
+
