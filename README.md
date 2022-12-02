@@ -596,4 +596,17 @@ Plasma Theme
 
 Added icons: go.svg, knotes.svg
 
+Changelog: 02.12.2022.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: mellowplayer.svg
+
 
