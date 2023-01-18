@@ -649,4 +649,17 @@ Plasma Theme
 
 Added icons: utilities.svg, internet.svg
 
+Changelog: 18.01.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icons: krfb.svg, zoom.svg
+
 
