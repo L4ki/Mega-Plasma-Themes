@@ -662,4 +662,17 @@ Plasma Theme
 
 Added icons: krfb.svg, zoom.svg
 
+Changelog: 25.01.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icons: cadence.svg, kruler.svg
+
 
