@@ -675,4 +675,17 @@ Plasma Theme
 
 Added icons: cadence.svg, kruler.svg
 
+Changelog: 15.02.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update: background.svg (dialogs), tooltip.svg, tasks.svg
+
 
