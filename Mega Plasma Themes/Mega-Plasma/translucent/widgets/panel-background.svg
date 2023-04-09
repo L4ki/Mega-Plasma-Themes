@@ -5,7 +5,7 @@
    viewBox="0 0 72.000031 188"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="panel-background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -90,9 +90,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5198471"
-     inkscape:cx="51.590432"
-     inkscape:cy="113.69737"
+     inkscape:zoom="10.079388"
+     inkscape:cx="38.544005"
+     inkscape:cy="49.308547"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -100,7 +100,7 @@
      borderlayer="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1003"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -115,7 +115,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:document-rotation="0"
      inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -249,34 +250,34 @@
          class="ColorScheme-Background" />
     </g>
     <rect
-       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.707107"
+       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.866031"
        id="hint-top-margin"
        width="2"
-       height="1.9999769"
+       height="3"
        x="24"
        y="910.36218" />
     <rect
-       y="952.36218"
+       y="951.36218"
        x="44"
-       height="2.0000231"
+       height="3"
        width="2"
        id="hint-bottom-margin"
-       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.707108" />
+       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.866022" />
     <rect
-       y="-56.999985"
+       y="-57"
        x="920.16217"
-       height="1.9999847"
+       height="4"
        width="2"
        id="hint-right-margin"
-       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.70711"
+       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:1.00001"
        transform="rotate(90)" />
     <rect
-       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:0.707108"
+       style="opacity:0.01;fill:#007aa5;fill-opacity:1;stroke:none;stroke-width:1"
        id="hint-left-margin"
        width="2"
-       height="2.0000019"
+       height="4"
        x="939.36218"
-       y="-14.999996"
+       y="-17.000002"
        transform="rotate(90)" />
     <g
        id="mask-top"
