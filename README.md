@@ -689,3 +689,17 @@ Plasma Theme
 Update: background.svg (dialogs), tooltip.svg, tasks.svg
 
 
+Changelog: 09.04.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widgets: panel-background.svg, tabbar.svg
+
+
