@@ -734,3 +734,22 @@ GTK Theme
 Added: gtk-4.0
 
 
+Changelog: 10.05.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
+GTK Theme
+----------
+
+Update: frame.png
+
+
