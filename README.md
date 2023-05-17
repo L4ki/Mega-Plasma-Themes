@@ -753,3 +753,22 @@ GTK Theme
 Update: frame.png
 
 
+Changelog: 17.05.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: background.svg
+
+GTK Theme
+----------
+
+Update: gtk-3.0, gtk-4.0
+
+
