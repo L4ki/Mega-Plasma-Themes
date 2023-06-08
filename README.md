@@ -808,4 +808,23 @@ GTK Theme
 
 Update: tab-up-active.png
 
+Changelog: 08.06.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update icon: kruler.svg
+
+
+GTK Theme
+----------
+
+Update: button-active.png
+
 
