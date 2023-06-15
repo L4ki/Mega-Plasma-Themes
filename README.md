@@ -827,4 +827,23 @@ GTK Theme
 
 Update: button-active.png
 
+Changelog: 15.06.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: corectrl.svg
+
+
+GTK Theme
+----------
+
+Update: button.png
+
 
