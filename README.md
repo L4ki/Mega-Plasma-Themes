@@ -846,4 +846,28 @@ GTK Theme
 
 Update: button.png
 
+Changelog: 22.06.2023.
+---------------------
+
+Aurorae Theme
+--------------
+
+Update: Auroraerc
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update: metadata.desktop
+
+
+GTK Theme
+----------
+
+Update: tab-right-active.png, tab-left-active.png
+
 
