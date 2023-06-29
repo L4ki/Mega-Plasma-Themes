@@ -870,4 +870,23 @@ GTK Theme
 
 Update: tab-right-active.png, tab-left-active.png
 
+Changelog: 29.06.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: accessories.svg
+
+
+GTK Theme
+----------
+
+Update: tab-down-active.png
+
 
