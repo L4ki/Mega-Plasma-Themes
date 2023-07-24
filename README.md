@@ -928,4 +928,23 @@ GTK Theme
 
 Update: bullet-symbolic.svg
 
+Changelog: 25.07.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: translucentbackground.svg
+
+
+GTK Theme
+----------
+
+Update: checkmark-symbolic.svg
+
 
