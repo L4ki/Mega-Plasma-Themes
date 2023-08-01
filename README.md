@@ -947,4 +947,23 @@ GTK Theme
 
 Update: checkmark-symbolic.svg
 
+Changelog: 01.08.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: fcitx.svg
+
+
+GTK Theme
+----------
+
+Update: gtk-2.0
+
 
