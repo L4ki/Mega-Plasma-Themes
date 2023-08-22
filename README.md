@@ -1004,5 +1004,25 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 22.08.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: frame.svg
+
+
+GTK Theme
+----------
+
+Update: hacks-dark
+
+
 
 
