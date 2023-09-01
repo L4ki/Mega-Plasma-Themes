@@ -1023,6 +1023,25 @@ GTK Theme
 
 Update: hacks-dark
 
+Changelog: 01.09.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: dragger.svg
+
+
+GTK Theme
+----------
+
+Update: gtkrc
+
 
 
 
