@@ -21,7 +21,11 @@ gtk-color-scheme = "sidebar_fg:#fcfcfc"
 gtk-auto-mnemonics = 1
 gtk-primary-button-warps-slider = 1
 
+# And hand over the control to the theme files
 include "main.rc"
+include "apps.rc"
+include "hacks.rc"
+include "hacks-dark.rc"
 
 # App stylings
 include "apps/chrome.rc"
