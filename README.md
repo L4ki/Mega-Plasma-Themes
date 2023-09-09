@@ -1042,6 +1042,24 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 09.09.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added: wind-arrows.svg
+
+GTK Theme
+----------
+
+Update: border.png
+
 
 
 
