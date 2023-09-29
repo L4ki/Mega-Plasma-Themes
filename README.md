@@ -1096,6 +1096,24 @@ GTK Theme
 
 Update: frame-inline.png
 
+Changelog: 30.09.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: notes.svg
+
+GTK Theme
+----------
+
+Update: frame.png
+
 
 
 
