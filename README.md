@@ -1114,6 +1114,24 @@ GTK Theme
 
 Update: frame.png
 
+Changelog: 07.10.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: picker.svg
+
+GTK Theme
+----------
+
+Update: menu-border.png
+
 
 
 
