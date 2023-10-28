@@ -1168,5 +1168,23 @@ GTK Theme
 
 Update: treeview-separator-ltr.png
 
+Changelog: 28.10.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: transform.svg
+
+GTK Theme
+----------
+
+Update: checkbox-checked-hover.png
+
 
 
