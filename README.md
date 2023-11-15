@@ -1186,7 +1186,7 @@ GTK Theme
 
 Update: checkbox-checked-hover.png
 
-Changelog: 0411.2023.
+Changelog: 04.11.2023.
 ---------------------
 
 Icons
@@ -1203,6 +1203,24 @@ GTK Theme
 ----------
 
 Update: gtkrc
+
+Changelog: 15.11.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: search.svg
+
+GTK Theme
+----------
+
+Update: treeview-separator-rtl.png
 
 
 
