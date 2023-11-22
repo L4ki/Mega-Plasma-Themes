@@ -1222,5 +1222,22 @@ GTK Theme
 
 Update: treeview-separator-rtl.png
 
+Changelog: 22.11.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: kgpg.svg
+
+GTK Theme
+----------
+
+Update: progressbar-vert-trough.png
 
 
