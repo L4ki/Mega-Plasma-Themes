@@ -1258,4 +1258,19 @@ GTK Theme
 
 Update: progressbar-horz-trough.png
 
+Changelog: 07.12.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icons: krusader_root.svg, krusader_user.svg
+
+
+
 
