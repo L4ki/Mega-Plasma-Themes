@@ -1264,6 +1264,11 @@ Changelog: 07.12.2023.
 Icons
 ------
 
+Aurorae Theme
+--------------
+
+Update: decoration.svg
+
 Added new icons: apps 32, 48
 
 Plasma Theme
