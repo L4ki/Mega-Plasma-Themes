@@ -1277,5 +1277,24 @@ Plasma Theme
 Added icons: krusader_root.svg, krusader_user.svg
 
 
+Changelog: 14.12.2023.
+---------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Aurorae Theme
+--------------
+
+Update: Auroraerc
+
+Plasma Theme
+-------------
+
+Added icon: telegram.svg
+
+
 
 
