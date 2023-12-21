@@ -1277,7 +1277,7 @@ Plasma Theme
 Added icons: krusader_root.svg, krusader_user.svg
 
 
-Changelog: 14.12.2023.
+Changelog: 21.12.2023.
 ---------------------
 
 Icons
